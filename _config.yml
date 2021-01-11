@@ -1,6 +1,6 @@
-title: Minimal theme
+title: 남민지 포트폴리오
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+description: 어쩌꾸저꺼구 웹 백엔드 개발자를 꿈꾸는 남민지의 포트폴리오 정리 블로그입니다.
+show_downloads: false
+google_analytics: rhdiddl9911@gmail.com
 theme: jekyll-theme-minimal
